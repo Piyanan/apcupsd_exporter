@@ -15,7 +15,7 @@ const (
 
 	// timeFormatShort is the package time format of date-only timestamps
 	// from a NIS.
-	timeFormatShort = "2006-01-02"
+	timeFormatShort = "01/02/06"
 )
 
 var (
